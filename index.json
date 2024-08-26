@@ -14,7 +14,7 @@
               "url": "https://github.com/AzuriteLab/VRCHierarchyHighlighter"
             },
             "url": "https://github.com/AzuriteLab/VRCHierarchyHighlighter/releases/download/v2024.08.26.0/com.azlab.vrc_hierarchy_highlighter-1.1.0.zip?",
-            "repo": "https://raw.githubusercontent.com/AzuriteLab/azlab_vrc_repos/master/index.json"
+            "repo": "https://raw.githubusercontent.com/AzuriteLab/azlab_vrc_repos/main/index.json"
           }
         }
       }
@@ -22,5 +22,5 @@
     "author": "azurite",
     "name": "azurite",
     "id": "com.azlab.vpm",
-    "url": "https://raw.githubusercontent.com/AzuriteLab/azlab_vrc_repos/master/index.json"
+    "url": "https://raw.githubusercontent.com/AzuriteLab/azlab_vrc_repos/main/index.json"
   }
