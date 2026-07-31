@@ -2,6 +2,20 @@
     "packages": {
       "com.azlab.vrc_hierarchy_highlighter": {
         "versions": {
+          "1.2.0": {
+            "name": "com.azlab.vrc_hierarchy_highlighter",
+            "displayName": "VRChat Hierarchy Highlighter",
+            "version": "1.2.0",
+            "unity": "2022.3",
+            "description": "Hierarchy Highlighter for VRChat",
+            "author": {
+              "name": "azurite",
+              "email": "azurite.cg@gmail.com",
+              "url": "https://github.com/AzuriteLab/VRCHierarchyHighlighter"
+            },
+            "url": "https://github.com/AzuriteLab/VRCHierarchyHighlighter/releases/download/v2026.07.31.0/com.azlab.vrc_hierarchy_highlighter-1.2.0.zip?",
+            "repo": "https://raw.githubusercontent.com/AzuriteLab/azlab_vrc_repos/main/index.json"
+          },
           "1.1.1": {
             "name": "com.azlab.vrc_hierarchy_highlighter",
             "displayName": "VRChat Hierarchy Highlighter",
